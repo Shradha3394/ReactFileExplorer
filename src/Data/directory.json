@@ -1,0 +1,127 @@
+[
+  {
+    "type": "folder",
+    "name": "animals",
+    "path": "/animals",
+    "children": [
+      {
+        "type": "folder",
+        "name": "cat1",
+        "path": "/animals/cat",
+        "children": [
+          {
+            "type": "folder",
+            "name": "images1",
+            "path": "/animals/cat/images",
+            "children": [
+              {
+                "type": "file",
+                "name": "cat001.jpg",
+                "path": "/animals/cat/images/cat001.jpg"
+              },
+              {
+                "type": "file",
+                "name": "cat002.jpg",
+                "path": "/animals/cat/images/cat002.jpg"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "images2",
+            "path": "/animals/cat/images",
+            "children": [
+              {
+                "type": "file",
+                "name": "cat0011.jpg",
+                "path": "/animals/cat/images/cat001.jpg"
+              },
+              {
+                "type": "file",
+                "name": "cat0021.jpg",
+                "path": "/animals/cat/images/cat002.jpg"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "name": "cat006.jpg",
+            "path": "/animals/cat/images/cat002.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "name": "wild-animals",
+    "path": "/animals",
+    "children": [
+      {
+        "type": "folder",
+        "name": "cat2",
+        "path": "/animals/cat",
+        "children": [
+          {
+            "type": "folder",
+            "name": "images",
+            "path": "/animals/cat/images",
+            "children": [
+              {
+                "type": "file",
+                "name": "cat001.jpg",
+                "path": "/animals/cat/images/cat001.jpg"
+              },
+              {
+                "type": "file",
+                "name": "cat002.jpg",
+                "path": "/animals/cat/images/cat002.jpg"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "name": "cat006.jpg",
+            "path": "/animals/cat/images/cat002.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "name": "pet-animals",
+    "path": "/animals",
+    "children": [
+      {
+        "type": "folder",
+        "name": "cat3",
+        "path": "/animals/cat",
+        "children": [
+          {
+            "type": "folder",
+            "name": "images",
+            "path": "/animals/cat/images",
+            "children": [
+              {
+                "type": "file",
+                "name": "cat001.jpg",
+                "path": "/animals/cat/images/cat001.jpg"
+              },
+              {
+                "type": "file",
+                "name": "cat002.jpg",
+                "path": "/animals/cat/images/cat002.jpg"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "name": "cat006.jpg",
+            "path": "/animals/cat/images/cat002.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
